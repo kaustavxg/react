@@ -1,6 +1,10 @@
+import Chai from "./Chai"
+
 function App() {
   return (
-    <h1>Welcome to react | Kaustav</h1>
+    <>
+      <Chai/>
+    </>
   );
 }
 
