@@ -8,7 +8,8 @@ const UserContextProvider = ({children}) => {
 
     return (
         <UserContext.Provider value={{user, setUser}}>
-            {children}
+            {children} 
+            {/* iske andar jo bhi component aayega, use is global user context ka scope mil jayega */}
         </UserContext.Provider>
     )
 }
