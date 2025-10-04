@@ -7,6 +7,7 @@ function App() {
     <div>
       <Card username="Kaustav" btnText="click me"/>
       <Card username="Mohini" btnText="visit me" />
+      <Card username="Rohan" btnText="visit me" />
     </div>
      
         
